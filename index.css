@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Raleway:wght@300;400;500;600&display=swap');
+
+
+/* 
+
+nav {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin: 0px 50px;
+}
+
+.navLinks {
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 20px;
+    list-style: none;
+    font-family: 'Raleway', 'sans-serif';
+    font-size: 20px;
+} */
+
+body {
+    margin: 0px;
+}
+
+.line-container {
+    display: flex;
+    justify-content: center;
+}
+
+/* .main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.heroHeading {
+    text-align: center;
+    font-family: 'Voyage', 'sans-serif';
+    font-weight: 100;
+    font-size: 100px;
+    margin: 10px 10px;
+} */
+
+/* .name {
+    font-size: 60px;
+} */
+
+/* .supportText {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Raleway', 'Sans-serif';
+    line-height: 146.8%;
+} */
+
+.contact {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 150px;
+}
+
+.project-card {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 100px;
+    border-bottom: 1px solid white;
+    padding: 60px 0px;
+}
+
+.project-name {
+    font-family: 'Voyage', 'sans-serif';
+    font-size: 160px;
+    font-weight: 100;
+    margin: 0px 0px;
+}
+
+.project-info-container {
+    width: 50%;
+    font-family: 'Raleway', 'sans-serif';
+}
+
+.featured-work-heading {
+    margin: 20px 50px;
+    padding-top: 100px;
+    border-bottom: 1px solid white;
+    font-family: 'Raleway', 'sans-serif';
+}
+
+.main-project-section {
+    background: #1E1E1E;
+    color: #EFEFED;
+}
+
+.span-role {
+    color: #ECB424;
+    font-size: 20px;
+}
+
+.seeWorkBtn {
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: 1px solid white;
+    background: #1E1E1E;
+    color: #EFEFED;
+    margin: 20px 0px;
+    font-family: 'Raleway', 'sans-serif';
+    font-size: 14px;
+}
